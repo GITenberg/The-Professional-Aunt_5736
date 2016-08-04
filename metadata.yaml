@@ -1,0 +1,25 @@
+_repo: The-Professional-Aunt_5736
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wemyss, Mary C. E.
+    alias: Wemyss, Mrs. George
+    gutenberg_agent_id: '1859'
+    url: http://www.gutenberg.org/2009/agents/1859
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Fiction'
+- !lcsh 'Sisters-in-law -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Aunts -- Fiction'
+- GITenberg
+title: The Professional Aunt
+url: http://www.gutenberg.org/ebooks/5736
